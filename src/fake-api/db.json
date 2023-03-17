@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "activity": "makan",
+      "done": false
+    },
+    {
+      "id": 2,
+      "activity": "minum",
+      "done": false
+    },
+    {
+      "id": 3,
+      "activity": "adaada",
+      "done": false
+    }
+  ]
+}
